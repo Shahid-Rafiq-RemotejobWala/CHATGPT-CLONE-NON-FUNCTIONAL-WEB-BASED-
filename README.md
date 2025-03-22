@@ -77,6 +77,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Screenshots
 
-![CHATGPT-CLONE-NON-FUNCTIONAL-WEB-BASED-](./main/ChatGPT clone non functional.png)  
+![CHATGPT-CLONE-NON-FUNCTIONAL-WEB-BASED-](./ChatGPT clone non functional.png)  
 *Example of the ChatGPT Clone interface.*
 
