@@ -10,6 +10,7 @@ Welcome to the **ChatGPT Clone** project! This is a non-functional, web-based cl
 - [How to Use](#how-to-use)
 - [Developer](#developer)
 - [License](#license)
+- [Screenshot](#screenshots)
 
 ---
 
@@ -49,3 +50,33 @@ Welcome to the **ChatGPT Clone** project! This is a non-functional, web-based cl
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/your-username/chatgpt-clone.git
+2. **Navigate to the Project Directory**:
+   ```bash
+   cd chatgpt-clone
+3. **Open the Project**:
+   Open the index.html file in your preferred browser.
+4. **Explore the Interface**:
+   Use the sidebar to view chat history and explore GPTs.
+   Type messages in the input area (non-functional in this version).
+
+---
+
+## Developer
+
+This project was developed by Shahid Rafiq | RemotejobWala.
+- **Email**: [msrafiq310@gmail.com](mailto:msrafiq310@gmail.com)
+- **LinkedIn**: [Shahid Rafiq RemotejobWala](https://www.linkedin.com/in/shahid-rafiq-remotejobwala)
+- **Facebook**: [Shahid Rafiq RemotejobWala](https://www.facebook.com/profile.php?id=100004719165786)
+
+---
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+---
+
+## Screenshots
+ChatGPT Clone Screenshot
+Example of the ChatGPT Clone interface.
+
+
