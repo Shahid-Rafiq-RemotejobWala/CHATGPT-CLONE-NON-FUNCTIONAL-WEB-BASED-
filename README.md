@@ -76,7 +76,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ---
 
 ## Screenshots
-ChatGPT Clone Screenshot
-Example of the ChatGPT Clone interface.
 
+![ChatGPT Clone Screenshot](./chatGPT clone non functional.png)  
+*Example of the ChatGPT Clone interface.*
 
